@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(63, 250, 6);
+    color: aliceblue;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+    color: rgb(2, 2, 2);
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Sedgwick Ave', cursive;
+    color: rgb(0, 0, 0);
+}
+h3{
+    color: black;
+}
+i{
+    color: red;
+    font-size: 50px;
+}
